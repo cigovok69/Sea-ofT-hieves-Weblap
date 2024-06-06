@@ -1,0 +1,28 @@
+
+.bg-fej {
+  background-position: center;
+  height: 250px;
+  padding-top: 75px;
+}
+
+.bg-fej h1{
+  color: rgb(0, 0, 0);
+  font-size: 500%;
+  text-decoration: underline;
+}
+
+.bg-torzs {
+background-color: gray;
+padding: 25px; 
+margin-top: 10px;
+}
+
+header {
+  background-size: cover;
+  background-position: center;
+  height: 150px; 
+  color: white; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
